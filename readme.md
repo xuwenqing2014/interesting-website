@@ -5,17 +5,17 @@ This is a repository that collects various interesting and useful websites, incl
 ## 🌟 Featured Websites
 
 ### 🤖 AI Tools
-- **[Labubu AI](https://labubuai.net)** - Intelligent AI assistant providing various AI services
-- **[AI Twerk](https://aitwerk.net)** - AI dance motion generation tool
-- **[AI Labubu](https://ailabubu.net)** - Another AI Labubu platform offering AI-related services
+- <a href="https://labubuai.net" rel="follow">**Labubu AI**</a> - Intelligent AI assistant providing various AI services
+- <a href="https://aitwerk.net" rel="follow">**AI Twerk**</a> - AI dance motion generation tool
+- <a href="https://ailabubu.net" rel="follow">**AI Labubu**</a> - Another AI Labubu platform offering AI-related services
 
 ### 🎨 Creative Generators
-- **[Pet Pet Gif](https://petpetgif.com)** - Cute pet GIF creation tool
-- **[Pet Pet Maker](https://petpetmaker.com)** - Pet avatar and meme maker
-- **[Pet Pet Generator](https://petpetgenerator.net)** - Pet image generation tool
+- <a href="https://petpetgif.com" rel="follow">**Pet Pet Gif**</a> - Cute pet GIF creation tool
+- <a href="https://petpetmaker.com" rel="follow">**Pet Pet Maker**</a> - Pet avatar and meme maker
+- <a href="https://petpetgenerator.net" rel="follow">**Pet Pet Generator**</a> - Pet image generation tool
 
 ### 🎭 Entertainment Apps
-- **[Gag Value](https://gagvalue.online)** - Funny content and entertainment platform
+- <a href="https://gagvalue.online" rel="follow">**Gag Value**</a> - Funny content and entertainment platform
 
 ## 📝 How to Use
 
